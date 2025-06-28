@@ -7,7 +7,7 @@ This project predicts whether a person is diabetic or not using a Machine Learni
 
 ---
 
-## 📂 Table of Contents
+##Table of Contents
 
 - [Project Overview](#project-overview)
 - [Dataset Details](#dataset-details)
@@ -21,13 +21,13 @@ This project predicts whether a person is diabetic or not using a Machine Learni
 
 ---
 
-## 📊 Project Overview
+##Project Overview
 
 The project uses a **Support Vector Machine (SVM)** classifier to predict diabetes risk based on patient attributes. It applies preprocessing techniques like feature scaling to improve model performance.
 
 ---
 
-## 📑 Dataset Details
+##Dataset Details
 
 The dataset used is the **PIMA Indian Diabetes Dataset**, available on:
 
@@ -50,7 +50,7 @@ Target Variable:
 
 ---
 
-## ⚙️ Technologies Used
+##Technologies Used
 
 - Python 3.x
 - NumPy
@@ -60,7 +60,7 @@ Target Variable:
 
 ---
 
-## 🧠 Model and Workflow
+##Model and Workflow
 
 1. Load dataset with Pandas
 2. Preprocess data with `StandardScaler`
@@ -71,7 +71,7 @@ Target Variable:
 
 ---
 
-## 🚀 How to Run
+##How to Run
 
 ✅ **Option 1:** [Open in Google Colab](https://colab.research.google.com/github/pratik-pritam-rout/Diabetes-Prediction-ML/blob/main/Diabetes_Prediction.ipynb)
 
