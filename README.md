@@ -14,10 +14,6 @@ This project predicts whether a person is diabetic or not using a Machine Learni
 - [Technologies Used](#technologies-used)
 - [Model and Workflow](#model-and-workflow)
 - [How to Run](#how-to-run)
-- [Prediction Example](#prediction-example)
-- [Output Screenshot](#output-screenshot)
-- [Project Links](#project-links)
-- [Future Improvements](#future-improvements)
 
 ---
 
@@ -71,7 +67,7 @@ Target Variable:
 
 ---
 
-##How to Run
+## How to Run
 
 ✅ **Option 1:** [Open in Google Colab](https://colab.research.google.com/github/pratik-pritam-rout/Diabetes-Prediction-ML/blob/main/Diabetes_Prediction.ipynb)
 
