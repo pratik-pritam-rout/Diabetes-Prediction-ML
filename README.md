@@ -81,7 +81,7 @@ Target Variable:
 git clone https://github.com/pratik-pritam-rout/Diabetes-Prediction-ML.git
 cd Diabetes-Prediction-ML
 Open Diabetes_Prediction.ipynb with Jupyter or Colab, run all cells in order.
-
+```
 ##🔮 Prediction Example
 python
 Copy
