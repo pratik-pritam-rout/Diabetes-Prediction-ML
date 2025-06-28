@@ -82,26 +82,3 @@ git clone https://github.com/pratik-pritam-rout/Diabetes-Prediction-ML.git
 cd Diabetes-Prediction-ML
 ```
 Open Diabetes_Prediction.ipynb with Jupyter or Colab, run all cells in order.
-
-🔮 Prediction Example
-python
-Copy
-Edit
-input_data = (1, 85, 66, 29, 0, 26.6, 0.351, 31)
-
-columns = ['Pregnancies', 'Glucose', 'BloodPressure', 'SkinThickness',
-           'Insulin', 'BMI', 'DiabetesPedigreeFunction', 'Age']
-
-input_df = pd.DataFrame([input_data], columns=columns)
-input_data_scaled = scaler.transform(input_df)
-prediction = classifier.predict(input_data_scaled)
-
-if prediction[0] == 0:
-    print("The person is not diabetic")
-else:
-    print("The person is diabetic")
-📸 Output Screenshot
-Example console output:
-The person is not diabetic
-
-Accuracy Score: 77%
